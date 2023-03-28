@@ -1,5 +1,6 @@
 # text-to-video
-Creating app for converting text to video
+Creating app for converting text to video:
+add text in text.txt file and save it
 
 # Setup
 1. download ffmpeg from :
@@ -20,4 +21,4 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-If chromedriver.exe is not suitable then you can download from website.
+If chromedriver.exe is not suitable then you can download from website. - https://chromedriver.chromium.org/downloads
