@@ -1,0 +1,4 @@
+gTTS
+requests
+ffmpeg
+selenium
